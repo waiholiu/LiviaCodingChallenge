@@ -34,9 +34,9 @@
   
     align-items: center;
   
-    background-color: hsl(var(--hue), 100%, 20%);
-  
-  }
+
+  background-image: url('https://www.wallpaperflare.com/static/521/531/730/taylor-swift-singer-face-taylor-wallpaper.jpg');
+  } 
   
   body.correct {
   
